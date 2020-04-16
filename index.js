@@ -1,3 +1,6 @@
+//can import env file however this will break your code once it's deployed. Add to package.json instead
+// require('dotenv').config();
+
 const express = require("express")
 const helmet = require("helmet")
 const cors = require("cors")

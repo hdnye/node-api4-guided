@@ -56,3 +56,6 @@ typings/
 
 # next.js build output
 .next
+
+# environment variables // what env variables will need to be added in the read me for open source projects
+.env
